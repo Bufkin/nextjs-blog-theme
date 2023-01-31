@@ -1,5 +1,7 @@
 ![Netlify Next.js Blog Template designed by Bejamas](github-banner.svg)
 
+Status: [![Netlify Status](https://api.netlify.com/api/v1/badges/ed1f4f96-454f-48bf-8933-3bbc5d2b30ee/deploy-status)](https://app.netlify.com/sites/musical-taiyaki-8f7054/deploys)
+
 [![Deploy to Netlify Button](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/nextjs-blog-theme)
 
 A customizable blog starter using:
